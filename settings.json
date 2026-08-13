@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "speedrunmc.seedloaf.gg",
+    "ip": "eastersmp.seedloaf.gg",
     "port": 59579,
     "version": "1.21.11",
     "try-creative": false
