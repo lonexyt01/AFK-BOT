@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "eastersmp.seedloaf.gg",
-    "port": "51617",
+    "port": 51617,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1537319031265296455/JhId33xsl9R_GVErwCUXs5qkyLncvOm9euwB6IuSTKlO0skgN5zh9yrqcKI0BTWrMxm3",
     "events": {
       "connect": true,
       "disconnect": true,
